@@ -67,7 +67,6 @@ function highestCount(arrayNumber) {
   return quantityHighestNumber;
 }
 
-highestCount([1,1,2,4,5,6,9,9,1])
 // Desafio 7
 function stepsCat1(mouse, cat1) {
   let cat1Steps = 0;
